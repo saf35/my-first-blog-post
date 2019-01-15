@@ -16,4 +16,4 @@ Universal Everything. “Behind the scenes Universal Everything & LA Dance Proje
 Universal Everything. “Presence 5.2 on Vimeo.” Vimeo, Vimeo, 11 Dec 2013, https://vimeo.com/81586036 . 
 
 
-[Here's a link to the piece](https://universaleverything.com/projects/presence)
+[Here's a link to the piece](https://vimeo.com/81586036)
