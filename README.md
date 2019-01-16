@@ -29,7 +29,7 @@ This piece is by Vincent Houze, where one moves their hand in front of the scree
 
 ### Third Art Piece
 
-![FIELD](images/Picture 3.png?raw=true "FIELD")
+![FIELD](images/Picture3.png?raw=true "FIELD")
 Screen capture taken from video “Photon - Interactive Light Games".
 
 This piece is by FIELD, and shown publicly at the Lumiere Festival of Lights in Durham in 2009 (presumably, the one in the UK, since FIELD Studio is in London). People can walk over the display of colorful lights raining down the sidewalk, and whereever they step, the lights splash away from them. I enjoy this piece because it is also playful, and I appreciate any art piece that brings joy to people's day. This is available to most people who can move through that space, bringing a new fun activity to them. I wonder if they are using projection mapping to project the images down onto the ground, because I can't see what their set-up is from the video.
